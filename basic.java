@@ -11,5 +11,8 @@ public class basic{
          static int fun1 (int n){
             return 34;
          }
+         static int fun2 (int n){
+            return 23;
+         }
     }
 }
