@@ -14,5 +14,6 @@ public class basic{
          static int fun2 (int n){
             return 23;
          }
+         String name "Archana";
     }
 }
