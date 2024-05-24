@@ -3,6 +3,6 @@ public class gitcommands{
 int a=1;
 char ch='q';
 int b=123;
-
+String s="Archu";
  }
 }
