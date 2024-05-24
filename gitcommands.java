@@ -3,5 +3,7 @@ public class gitcommands{
 int a=1;
 char ch='q';
 int p=1234;
+int game=100;
+
  }
 }
